@@ -2,7 +2,7 @@
 Read Internal Temperature Sensor of STM32F446RE-Nucleo using stm32 HAL and LL (low-level) drivers<br>
 I did not write this driver. I merely repackaged it so its a little easier to use. It is st's example code.<br>
 Outputs to UART Two which is stlink virtual com port<br>
-See section 6.3.22 of the data seet for STM32F446xC/E<br>
+See section 6.3.22 of the data sheet for STM32F446xC/E<br>
 <br>
 To use with other chips, change:<br>
 VREFINT_CAL_ADDR<br>
